@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+voice_models/
+output/*.mp4
+output/*.wav
+output/*.srt
